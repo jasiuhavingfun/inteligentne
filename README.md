@@ -12,7 +12,7 @@ It was created as part of a course project to explore data-driven approaches for
 
 The system takes images of plant leaves as input and predicts potential diseases based on trained models.
 
-For more details, visit the original project page: [Inteligentne Plant Disease Classifier](https://github.com/jasiuhavingfun/inteligentne](https://www.kaggle.com/code/vad13irt/plant-disease-classification)
+For more details, visit the original project page: [Inteligentne Plant Disease Classifier](https://www.kaggle.com/code/vad13irt/plant-disease-classification)
 
 ---
 
